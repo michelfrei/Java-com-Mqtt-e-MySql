@@ -1,10 +1,10 @@
 # Trabalho_SD
 
 TLDR;
-Indo direto ao código
-Trabalho_SD/Pub/src/main/java/
-Trabalho_SD/Sub/src/main/java/
-tabelas Sql no final desse arquivo do arquivo
+Indo direto ao código:
+Trabalho_SD/Pub/src/main/java/ .
+Trabalho_SD/Sub/src/main/java/ .
+tabelas Sql no final desse arquivo do arquivo .
 
 
 
