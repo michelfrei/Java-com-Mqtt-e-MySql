@@ -22,7 +22,8 @@ informação em outro banco de dados.
 
 O codigo foi construido em java e utiliza o Mysql como banco de dados.
 
----------------------------------------------------------------------------------------------------
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+
 As tabelas e bancos usados foram os seguintes
 
 create database sys;
@@ -43,4 +44,4 @@ create table bank2.peoples2(
     endereco varchar(255) not null,
 	cpf varchar(16) not null
 )
--------------------------------------------------------------------------------------------------
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
