@@ -44,4 +44,4 @@ create table bank2.peoples2(
     endereco varchar(255) not null,
 	cpf varchar(16) not null
 )
---------------
+É isso!
